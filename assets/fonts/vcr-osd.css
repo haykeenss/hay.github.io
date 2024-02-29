@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'vcr-osd';
+    src: url('vcr-osd.woff2') format('woff2'), url('vcr-osd.html') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
